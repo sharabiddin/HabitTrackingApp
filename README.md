@@ -5,9 +5,9 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/mwilko/Mobile_Health_App) ![Static Badge](https://img.shields.io/badge/status-complete-green)
 
 
-# Mobile Health App to Detect Chronic Conditions
+# Mobile Habit tracking app
 
-Team Software Engineering project. This project is a mobile application built in BeeWare, which utilies machine learning algorithms and a pose detection module to detect chronic conditions in users.
+Team Thesis project. This project is a mobile application built in BeeWare, which utilises rust integrity for high performance.
 
 ## How to install:
 
@@ -54,7 +54,7 @@ This would compile the application where the terminal will take you through the 
 #### Windows Bug:
 You will find that when first starting the emulator it will hang on:
 ```sh
-[healthapp] Starting emulator Pixel_3a_API_34_extension_level_7_x86_64...
+[habitapp] Starting emulator Pixel_3a_API_34_extension_level_7_x86_64...
 ━━━━━━━━━━━━━━━━━━━━ Starting emulator...
 ```
 
@@ -68,6 +68,3 @@ You must ctr+C to cancel the process and then run the command again (this is a k
 
 Thanks for taking the time to visit our application.
 
-Regards,
-Development Team
-(26551623@students.lincoln.ac.uk, 27203747@students.lincoln.ac.uk, 26457815@students.lincoln.ac.uk, 26379294@students.lincoln.ac.uk)
